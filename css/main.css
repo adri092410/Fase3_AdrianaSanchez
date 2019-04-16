@@ -1,0 +1,11 @@
+body{
+background-image:url("../img/fondo.jpg");
+} 
+
+a:link,a:visited,a:hover,a:active{
+color: white; 
+}
+
+p{
+text-align: justify;
+} 
